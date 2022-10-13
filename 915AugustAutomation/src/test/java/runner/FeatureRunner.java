@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 
-
+test
 @CucumberOptions(
 
         features = {"src/test/resources/feature/SaleforceErrorMessageValidation.feature"},
